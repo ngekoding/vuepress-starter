@@ -4,7 +4,7 @@ module.exports = {
   base: '/',
 
   // site-level locales config
-  locale: {
+  locales: {
     '/': {
       lang: 'id-ID',
       title: 'Vuepress!',
